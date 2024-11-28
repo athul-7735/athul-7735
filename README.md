@@ -1,11 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Athul S</h1>
 
-<h3 align="center">A FullStack Developer</h3>
+<h3 align="center">DevOps Student</h3>
 
 <br />
 
 - 🌱 I’m currently pursuing my Masters in DevOps.
-- 🤝 I’m looking to collaborate on Frontend as well as Backend Projects
 - 📫 How to reach me: athulsukumaran@gmail.com
 
 
